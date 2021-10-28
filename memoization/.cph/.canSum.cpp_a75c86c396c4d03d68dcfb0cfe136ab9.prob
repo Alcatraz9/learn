@@ -1,0 +1,1 @@
+{"name":"Local: canSum","url":"c:\\Users\\Rish\\Desktop\\learn\\memoization\\canSum.cpp","tests":[{"id":1626791517802,"input":"8 3 2 3 5","output":"1"},{"id":1626791550963,"input":"300 2 7 14","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rish\\Desktop\\learn\\memoization\\canSum.cpp","group":"local","local":true}

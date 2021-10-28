@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "atomic": "cpp",
+        "new": "cpp",
+        "filesystem": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "ostream": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp",
+        "cmath": "cpp"
+    },
+    "emmet.showSuggestionsAsSnippets": true
+}

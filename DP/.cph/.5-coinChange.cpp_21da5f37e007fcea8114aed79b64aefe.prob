@@ -1,0 +1,1 @@
+{"name":"Local: 5-coinChange","url":"c:\\Users\\Rish\\Desktop\\learn\\DP\\5-coinChange.cpp","tests":[{"id":1627922185130,"input":"3\n5 1 2\n11","output":"3"},{"id":1627922943657,"input":"1\n2\n2","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rish\\Desktop\\learn\\DP\\5-coinChange.cpp","group":"local","local":true}

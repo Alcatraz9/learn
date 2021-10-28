@@ -1,0 +1,1 @@
+{"name":"Local: paypal_2","url":"c:\\Users\\Rish\\Desktop\\learn\\practise\\paypal_2.cpp","tests":[{"id":1627310308862,"input":"5 5\n. . . . *\n* * * * .\n. . . . . \n. # # . #\n. . . . .","output":"-1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rish\\Desktop\\learn\\practise\\paypal_2.cpp","group":"local","local":true}
